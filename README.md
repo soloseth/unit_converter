@@ -1,1 +1,1 @@
-Unit converter CLI tool with core logic, CLI and tests modulated
+Unit converter CLI tool with core logic, CLI, GUI and tests modulated
